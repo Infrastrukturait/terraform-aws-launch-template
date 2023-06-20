@@ -1,11 +1,20 @@
 {
-  "name": "",
-  "repo_url": "",
+  "authors": [
+    {
+      "email": "rafal@masiarek.pl",
+      "github": "rafalmasiarek",
+      "name": "Rafa\u0142 Masiarek",
+      "website": "https://masiarek.pl"
+    }
+  ],
+  "context": [
+    "## About",
+    "Terraform module to provision new Launch Template on AWS."
+  ],
+  "includes": [
+    "docs/terraform.md"
+  ],
   "license": "GPLv3",
-  "logo": "",
-  "badges": [],
-  "includes": [],
-  "authors": [],
-  "context": [],
-  "references": []
+  "name": " terraform-aws-launch-template",
+  "repo_url": "https://github.com/Infrastrukturait/terraform-aws-launch-template"
 }
